@@ -1,0 +1,20 @@
+BSM02 Project Repository			
+2018.03.22			
+			
+BSM02			
+	PSU		
+		LT1054+-9V_PSU	
+		5V_3.3V_+-2.5V_PowerSupply	
+	BaseMachine chassis		
+	BaseMachine sequencer		
+	Synth		
+		Filter	
+			DCF_AD8403_Shield
+			SVF_AD8403
+		Oscillator	
+			PSoC4_DCO
+		Amplifier	
+			NJM13700_DCA
+	SPI Bus Buffer		
+
+	

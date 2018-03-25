@@ -11,6 +11,7 @@ CortexM3/
 Export/
 Generated_Source/
 codegentemp/
+*.nerdfloor
 
 #Atmel Studio
 Debug/
